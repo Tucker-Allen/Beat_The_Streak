@@ -1,2 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-14,,,,,,,,,,,,,455976,20180414-atl-chc-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-14,20180414-atl-chc-1,,,,,,,,,,,,,455976,20180414-atl-chc-1
+2018-04-25,20180425-atl-cin-1,5.0,10.0,16.0,5.0,10.0,16.0,5.0,10.0,16.0,5.0,10.0,16.0,455976,20180425-atl-cin-1

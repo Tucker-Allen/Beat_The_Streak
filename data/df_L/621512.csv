@@ -1,3 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-17,,,,,,,,,,,,,621512,20180417-was-nym-1
-2018-04-20,3.0,2.0,3.0,3.0,2.0,3.0,3.0,2.0,3.0,3.0,2.0,3.0,621512,20180420-nym-atl-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-17,20180417-was-nym-1,,,,,,,,,,,,,621512,20180417-was-nym-1
+2018-04-20,20180420-nym-atl-1,3.0,2.0,3.0,3.0,2.0,3.0,3.0,2.0,3.0,3.0,2.0,3.0,621512,20180420-nym-atl-1

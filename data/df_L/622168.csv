@@ -1,4 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-05,,,,,,,,,,,,,622168,20180405-ari-stl-1
-2018-04-10,3.0,1.0,0.0,3.0,1.0,0.0,3.0,1.0,0.0,3.0,1.0,0.0,622168,20180410-mil-stl-1
-2018-04-14,4.2,3.4,7.619999999999999,4.04,3.08,6.603999999999999,4.02,3.04,6.476999999999999,4.0,3.0,6.35,622168,20180414-stl-cin-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-05,20180405-ari-stl-1,,,,,,,,,,,,,622168,20180405-ari-stl-1
+2018-04-10,20180410-mil-stl-1,3.0,1.0,0.0,3.0,1.0,0.0,3.0,1.0,0.0,3.0,1.0,0.0,622168,20180410-mil-stl-1

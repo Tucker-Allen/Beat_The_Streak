@@ -1,2 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-03-30,,,,,,,,,,,,,592261,20180330-hou-tex-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-28,20180428-tex-tor-1,,,,,,,,,,,,,592261,20180428-tex-tor-1
+2018-04-29,20180429-tex-tor-1,5.0,7.0,21.4,5.0,7.0,21.4,5.0,7.0,21.4,5.0,7.0,21.4,592261,20180429-tex-tor-1

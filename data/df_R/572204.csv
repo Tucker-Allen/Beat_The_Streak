@@ -1,1 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-25,20180425-sea-chw-1,,,,,,,,,,,,,572204,20180425-sea-chw-1
+2018-04-26,20180426-chw-kan-1,4.0,3.0,0.0,4.0,3.0,0.0,4.0,3.0,0.0,4.0,3.0,0.0,572204,20180426-chw-kan-1

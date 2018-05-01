@@ -1,3 +1,4 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-13,,,,,,,,,,,,,434658,20180413-tor-cle-1
-2018-04-22,4.0,4.0,12.2,4.0,4.0,12.2,4.0,4.0,12.2,4.0,4.0,12.2,434658,20180422-cle-bal-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-13,20180413-tor-cle-1,,,,,,,,,,,,,434658,20180413-tor-cle-1
+2018-04-22,20180422-cle-bal-1,4.0,4.0,12.2,4.0,4.0,12.2,4.0,4.0,12.2,4.0,4.0,12.2,434658,20180422-cle-bal-1
+2018-04-24,20180424-chc-cle-1,4.0,5.800000000000001,8.600000000000001,4.0,5.5600000000000005,9.08,4.0,5.53,9.139999999999999,4.0,5.5,9.2,434658,20180424-chc-cle-1

@@ -1,2 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-10,,,,,,,,,,,,,489149,20180410-hou-min-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-10,20180410-hou-min-1,,,,,,,,,,,,,489149,20180410-hou-min-1
+2018-04-24,20180424-min-nyy-1,4.0,4.0,3.0,4.0,4.0,3.0,4.0,4.0,3.0,4.0,4.0,3.0,489149,20180424-min-nyy-1

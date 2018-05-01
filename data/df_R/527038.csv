@@ -1,3 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-01,,,,,,,,,,,,,527038,20180401-stl-nym-1
-2018-04-15,4.0,1.0,0.0,4.0,1.0,0.0,4.0,1.0,0.0,4.0,1.0,0.0,527038,20180415-mil-nym-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-15,20180415-mil-nym-1,,,,,,,,,,,,,527038,20180415-mil-nym-1
+2018-04-25,20180425-nym-stl-1,5.0,3.0,21.7,5.0,3.0,21.7,5.0,3.0,21.7,5.0,3.0,21.7,527038,20180425-nym-stl-1

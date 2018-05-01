@@ -1,3 +1,4 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-11,,,,,,,,,,,,,425784,20180411-laa-tex-1
-2018-04-21,4.0,7.0,15.7,4.0,7.0,15.7,4.0,7.0,15.7,4.0,7.0,15.7,425784,20180421-sfo-laa-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-11,20180411-laa-tex-1,,,,,,,,,,,,,425784,20180411-laa-tex-1
+2018-04-21,20180421-sfo-laa-1,4.0,7.0,15.7,4.0,7.0,15.7,4.0,7.0,15.7,4.0,7.0,15.7,425784,20180421-sfo-laa-1
+2018-04-29,20180429-nyy-laa-1,3.4,5.2,6.279999999999999,3.48,5.4399999999999995,7.536,3.49,5.47,7.693,3.5,5.5,7.85,425784,20180429-nyy-laa-1

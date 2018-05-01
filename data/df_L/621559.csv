@@ -1,2 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-18,,,,,,,,,,,,,621559,20180418-col-pit-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-18,20180418-col-pit-1,,,,,,,,,,,,,621559,20180418-col-pit-1
+2018-04-25,20180425-det-pit-2,4.0,10.0,9.5,4.0,10.0,9.5,4.0,10.0,9.5,4.0,10.0,9.5,621559,20180425-det-pit-2

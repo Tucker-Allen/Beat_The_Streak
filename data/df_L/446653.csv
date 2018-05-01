@@ -1,1 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-27,20180427-nym-sdg-1,,,,,,,,,,,,,446653,20180427-nym-sdg-1
+2018-04-28,20180428-nym-sdg-1,4.0,5.0,15.7,4.0,5.0,15.7,4.0,5.0,15.7,4.0,5.0,15.7,446653,20180428-nym-sdg-1

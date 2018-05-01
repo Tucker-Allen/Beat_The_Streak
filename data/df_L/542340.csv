@@ -1,3 +1,4 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-03-29,,,,,,,,,,,,,542340,20180329-mil-sdg-1
-2018-04-08,3.0,2.0,0.0,3.0,2.0,0.0,3.0,2.0,0.0,3.0,2.0,0.0,542340,20180408-chc-mil-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-08,20180408-chc-mil-1,,,,,,,,,,,,,542340,20180408-chc-mil-1
+2018-04-28,20180428-mil-chc-1,3.0,0.0,6.0,3.0,0.0,6.0,3.0,0.0,6.0,3.0,0.0,6.0,542340,20180428-mil-chc-1
+2018-04-30,20180430-mil-cin-1,3.0,0.0,2.4,3.0,0.0,2.88,3.0,0.0,2.94,3.0,0.0,3.0,542340,20180430-mil-cin-1

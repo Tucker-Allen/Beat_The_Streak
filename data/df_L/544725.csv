@@ -1,2 +1,4 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-02,,,,,,,,,,,,,544725,20180402-chw-tor-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-24,20180424-sea-chw-1,,,,,,,,,,,,,544725,20180424-sea-chw-1
+2018-04-27,20180427-chw-kan-1,3.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,3.0,0.0,0.0,544725,20180427-chw-kan-1
+2018-04-28,20180428-chw-kan-2,4.2,4.2,15.12,4.04,3.64,13.104,4.02,3.57,12.851999999999999,4.0,3.5,12.6,544725,20180428-chw-kan-2

@@ -1,2 +1,3 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-23,,,,,,,,,,,,,455759,20180423-laa-hou-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-23,20180423-laa-hou-1,,,,,,,,,,,,,455759,20180423-laa-hou-1
+2018-04-24,20180424-laa-hou-1,3.0,2.0,0.0,3.0,2.0,0.0,3.0,2.0,0.0,3.0,2.0,0.0,455759,20180424-laa-hou-1

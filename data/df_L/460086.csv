@@ -1,3 +1,2 @@
-Date,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
-2018-04-02,,,,,,,,,,,,,460086,20180402-kan-det-1
-2018-04-03,3.0,1.0,0.0,3.0,1.0,0.0,3.0,1.0,0.0,3.0,1.0,0.0,460086,20180403-kan-det-1
+Date,Game_ID,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,PA,Team_score,FD_points,MLB_ID,Game_ID
+2018-04-30,20180430-kan-bos-1,,,,,,,,,,,,,460086,20180430-kan-bos-1
